@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/naufalprays77.github.io/web-portA7/static/css/main.ad937c83.css",
-    "main.js": "/naufalprays77.github.io/web-portA7/static/js/main.fa22e8ea.js",
-    "static/media/bg-img-left.png": "/naufalprays77.github.io/web-portA7/static/media/bg-img-left.ad1de9c610327419d22c.png",
-    "static/media/logo.png": "/naufalprays77.github.io/web-portA7/static/media/logo.df0ccc1b6fdb6bd58bd3.png",
-    "index.html": "/naufalprays77.github.io/web-portA7/index.html",
-    "main.ad937c83.css.map": "/naufalprays77.github.io/web-portA7/static/css/main.ad937c83.css.map",
-    "main.fa22e8ea.js.map": "/naufalprays77.github.io/web-portA7/static/js/main.fa22e8ea.js.map"
+    "main.css": "/web-portA7/static/css/main.87500c4b.css",
+    "main.js": "/web-portA7/static/js/main.d458de63.js",
+    "static/media/bg-img-left.png": "/web-portA7/static/media/bg-img-left.ad1de9c610327419d22c.png",
+    "static/media/logo.png": "/web-portA7/static/media/logo.df0ccc1b6fdb6bd58bd3.png",
+    "index.html": "/web-portA7/index.html",
+    "main.87500c4b.css.map": "/web-portA7/static/css/main.87500c4b.css.map",
+    "main.d458de63.js.map": "/web-portA7/static/js/main.d458de63.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad937c83.css",
-    "static/js/main.fa22e8ea.js"
+    "static/css/main.87500c4b.css",
+    "static/js/main.d458de63.js"
   ]
 }
