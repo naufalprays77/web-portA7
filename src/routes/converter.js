@@ -89,7 +89,12 @@ export default function Converter() {
           </Col>
         </Row>
         <footer>
-          Copyrights by <img src={logoFooter} className="footerLogo" alt="footerLogo" /> NNP
+          Develope by <img src={logoFooter} className="footerLogo" alt="footerLogo" />{' '}
+          <a href="https://www.instagram.com/naufalprays77/" className="link-footer">
+            @naufalprays77
+          </a>
+          <br />
+          version 3.1.1
         </footer>
       </Container>
     </div>
