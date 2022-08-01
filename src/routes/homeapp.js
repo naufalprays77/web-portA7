@@ -21,7 +21,7 @@ export default function Home() {
                 <h1>temperature converter</h1>
                 <h3>Makes it easy for you to convert temperature</h3>
                 <Button className="btn-calculate">
-                  <Link to="/converter" className="text-calculate">
+                  <Link to="/web-portA7/converter" className="text-calculate">
                     Calculate
                   </Link>
                 </Button>

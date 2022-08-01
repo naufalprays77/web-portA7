@@ -13,7 +13,7 @@ render(
   <BrowserRouter>
     <Routes>
       <Route exact path="/web-portA7" element={<Home />} />
-      <Route path="/converter" element={<Converter />} />
+      <Route path="/web-portA7/converter" element={<Converter />} />
     </Routes>
   </BrowserRouter>,
   rootElement
